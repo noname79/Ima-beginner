@@ -1,3 +1,2 @@
-# Ima-beginner
-beginning html , css 
+# I'm a-beginner
 Everybody can use my website
